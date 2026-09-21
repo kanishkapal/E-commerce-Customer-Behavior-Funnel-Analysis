@@ -59,3 +59,16 @@ This project analyzes 25,000 e-commerce customer sessions records to understand 
 - Which payment methods generate the highest revenue?
 - How does average order value vary across payment methods?
 - How does the number of orders vary across payment methods?
+
+## SQL Analysis
+The project uses MySQL to analyze customer behavior, funnel performance, revenue, and purchase patterns through multiple SQL queries.
+
+- E-commerce Funnel Analysis
+- User Type Performance Analysis
+- Device Type Analysis
+- Marketing Channel Performance
+- Product Category Analysis
+- Cart Abandonment Analysis
+- Revenue & Sales Performance Analysis
+- Customer Engagement Analysis
+- Payment Method Performance Analysis
